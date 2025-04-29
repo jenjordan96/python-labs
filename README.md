@@ -1,2 +1,2 @@
 # python-labs
-This repository documents my progression through foundational Python scripting
+This repository is to document my Python projects as I grow and learn in DevOps
