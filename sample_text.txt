@@ -1,0 +1,2 @@
+Hello, Jennai! Welcome to your first Python file write.
+This is line 2 of your sample file.
