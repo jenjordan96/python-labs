@@ -17,7 +17,7 @@ This is where I'm practicing and building foundational skills in:
 - **Lab 5:** User Input to File (with Read-Back Confirmation)
 
 ## About Me:
-I'm learning step-by-step, brick-by-brick — combining IT fundamentals with real coding practice to build a strong, professional foundation.
+I'm learning step-by-step, combining IT fundamentals with real coding practice to build a strong, professional foundation.
 
 Follow along as I continue to grow! 💻📚
 

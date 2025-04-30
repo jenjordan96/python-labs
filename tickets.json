@@ -1,0 +1,50 @@
+[
+    {
+        "ticket_id": "cb6d2780-164a-453d-8a8e-113064e8dd1d",
+        "timestamp": "2025-04-29 18:47:06",
+        "submitted_by": "3",
+        "description": "My Outlook will not open",
+        "urgency": "Medium",
+        "category": "Network"
+    },
+    {
+        "ticket_id": "7fa718ec-ad13-4ce8-91af-b925b58bb402",
+        "timestamp": "2025-04-29 18:50:49",
+        "submitted_by": "Jennai Jordan",
+        "description": "my outlook will not open",
+        "urgency": "Low",
+        "category": "Software"
+    },
+    {
+        "ticket_id": "728f400c-31c8-4834-b89b-6768a91246ce",
+        "timestamp": "2025-04-29 19:24:43",
+        "submitted_by": "Mike",
+        "category": "Printer",
+        "urgency": "Medium",
+        "description": "Printer is showing a toner error"
+    },
+    {
+        "ticket_id": "2e369e8f-1fde-43be-b78a-a1d3b1e8cbdd",
+        "timestamp": "2025-04-29 19:26:32",
+        "submitted_by": "Mike",
+        "category": "Access Request",
+        "urgency": "High",
+        "description": "Microsoft office needed on my desktop"
+    },
+    {
+        "ticket_id": "f4ea5b0a-1116-4c47-8321-76fea5d0e257",
+        "timestamp": "2025-04-29 19:28:33",
+        "submitted_by": "Mike",
+        "category": "Printer",
+        "urgency": "Medium",
+        "description": "Need new toner"
+    },
+    {
+        "ticket_id": "6dfd12a6-474f-42df-882c-b057be0cd27a",
+        "timestamp": "2025-04-29 19:30:43",
+        "submitted_by": "Mike",
+        "category": "Printer",
+        "urgency": "Medium",
+        "description": "needs new toner"
+    }
+]
