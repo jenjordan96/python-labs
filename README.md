@@ -9,12 +9,17 @@ This is where I'm practicing and building foundational skills in:
 - Automation basics
 - Git and GitHub workflows
 
-## Labs Completed:
+## Basic Labs:
 - **Lab 1:** System Information Print
 - **Lab 2:** Greeting Decision Maker
 - **Lab 3:** File Read/Write Basics
 - **Lab 4:** Dynamic File Naming (Timestamps)
 - **Lab 5:** User Input to File (with Read-Back Confirmation)
+
+## Real Word Scenarios  
+- **Lab 6 - Help Desk Ticket Generator  
+Simulates IT ticket submission with urgency validation, ticket categorization, and Identity Management redirection for access-related requests.
+
 
 ## About Me:
 I'm learning step-by-step, combining IT fundamentals with real coding practice to build a strong, professional foundation.
